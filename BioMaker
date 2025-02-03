@@ -54,8 +54,6 @@ print("\nProcessing complete!")
 print("ERROR! YOUR PHONE HAS BEEN HACKED!")
 time.sleep(1)
 print("Haha, kidding! Don't worry, this script doesn't forward info.")
-else:
-Ohk i get it
 
 exit_ = input("\nType 'exit' for a surprise! / Type 'no' for no surprise: ")
 
@@ -69,3 +67,4 @@ if exit_.lower() == "exit":
         print(f"Made by {rgb_text('VENKATESH!', r, g, b)}")
         time.sleep(0.5)  # Delay of 0.5 seconds to avoid spamming
 else:
+        print ("ok i get it :(")
