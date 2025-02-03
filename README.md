@@ -1,0 +1,1 @@
+Hi! these are my very first python projects like i mean you can use them anywhere you want its simply made with python like yeah but theyre optimized for those who use termux! like this isnt that good but theyre js some projects i made ykyk
